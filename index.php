@@ -57,7 +57,7 @@ nav ul li a:hover {
             background-color: #004d00; /* Tonalidade mais escura de verde ao passar o mouse */
         }
 #banner {
-    background-image: url('imagens/Espaço do galego.png');
+    background-image: url('Espaço do galego.png');
     background-size: cover;
     color: #fff;
     padding: 100px 0;
